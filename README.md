@@ -5,8 +5,6 @@ An application to Encrypt and Decrypt any kind of file and add a password to the
 
 
 
-
-
 ## Methodology used
 
 - Used AES(Advanced Encryption Standard) for encrypting and decrypting the file.
@@ -28,9 +26,9 @@ Run Encrypt.py file
 ### Encrypt
 Would you like to (E)ncrypt or (D)ecrypt?:E
 
-File to encrypt: filename.jpg
+File to encrypt: filename
 
-Password: <Enter Password>
+Password: password
 
 Done.
 
@@ -38,9 +36,9 @@ Done.
 
 Would you like to (E)ncrypt or (D)ecrypt?:D
 
-File to decrypt: (encrypted)filename.jpg
+File to decrypt: (encrypted)filename
 
-Password: <Enter Password>
+Password: password
 
 Done.
 

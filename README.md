@@ -21,7 +21,7 @@ Clone the project to your local machine
 Run Encrypt.py file
 
 ```bash
-  python encrypt.py
+  python encrypt-decrypt.py
 ```
 ### Encrypt
 Would you like to (E)ncrypt or (D)ecrypt?:E
